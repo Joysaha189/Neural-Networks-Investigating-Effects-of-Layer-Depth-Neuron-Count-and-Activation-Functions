@@ -26,6 +26,7 @@ The goal of this project was to build a functioning neural network from scratch 
 
 
 ![architecture](Images/architecture.png)
+
 \- **Configurable Architecture:** 2–4 layers with customizable hidden neurons.
 
 \- **Activation Functions:** ReLU, Sigmoid, and Leaky ReLU.
