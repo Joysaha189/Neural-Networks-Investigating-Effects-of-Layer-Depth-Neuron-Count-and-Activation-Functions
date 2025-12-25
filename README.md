@@ -25,7 +25,7 @@ The goal of this project was to build a functioning neural network from scratch 
 ###### **Key Features**
 
 
-
+![architecture](Images/architecture.png)
 \- **Configurable Architecture:** 2–4 layers with customizable hidden neurons.
 
 \- **Activation Functions:** ReLU, Sigmoid, and Leaky ReLU.
@@ -77,6 +77,7 @@ The goal of this project was to build a functioning neural network from scratch 
 \- **Dimensionality:** High-instance datasets performed well; high-dimensional low-sample datasets (e.g., Leukemia) were challenging.
 
 
+![results](Images/bestval.png)
 
 
 
@@ -122,7 +123,13 @@ All notebooks are shared with \*\*editor access\*\*. To avoid accidental edits, 
 
 
 
----
+#### Project Status
+
+
+
+✅ Completed — Baseline implementation
+
+🔧 Open for enhancements and upgrades
 
 
 
