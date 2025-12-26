@@ -84,7 +84,7 @@ The goal of this project was to build a functioning neural network from scratch 
 
 
 
-##### **Getting Started**
+###### **Getting Started**
 
 
 
@@ -110,7 +110,7 @@ All notebooks are shared with \*\*editor access\*\*. To avoid accidental edits, 
 
 
 
-##### **How to Run**
+###### **How to Run**
 
 
 
@@ -124,7 +124,7 @@ All notebooks are shared with \*\*editor access\*\*. To avoid accidental edits, 
 
 
 
-#### Project Status
+###### Project Status
 
 
 
@@ -152,7 +152,7 @@ University at Albany, SUNY
 
 
 
-##### License
+###### License
 
 
 
