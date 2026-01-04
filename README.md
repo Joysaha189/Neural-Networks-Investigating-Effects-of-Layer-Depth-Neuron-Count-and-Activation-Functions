@@ -8,7 +8,7 @@
 
 
 
-This repository contains a \*\*Python + NumPy implementation of a feedforward neural network\*\* built entirely from scratch. Developed for \*\*CSI 536\*\*, the project explores how neural networks learn, transform data layer-by-layer, and generalize to unseen examples without using high-level deep learning libraries.
+This repository contains a **Python + NumPy implementation of a feedforward neural network** built entirely from scratch. Developed for **CSI 536**, the project explores how neural networks learn, transform data layer-by-layer, and generalize to unseen examples without using high-level deep learning libraries.
 
 
 
@@ -18,7 +18,7 @@ This repository contains a \*\*Python + NumPy implementation of a feedforward ne
 
 
 
-The goal of this project was to build a functioning neural network from scratch to understand \*\*weights, activations, layer interactions\*\*, and the effect of architectural choices on performance.
+The goal of this project was to build a functioning neural network from scratch to understand **weights, activations, layer interactions**, and the effect of architectural choices on performance.
 
 
 
@@ -27,13 +27,13 @@ The goal of this project was to build a functioning neural network from scratch 
 
 ![architecture](Images/architecture.png)
 
-\- **Configurable Architecture:** 2–4 layers with customizable hidden neurons.
+- **Configurable Architecture:** 2–4 layers with customizable hidden neurons.
 
-\- **Activation Functions:** ReLU, Sigmoid, and Leaky ReLU.
+- **Activation Functions:** ReLU, Sigmoid, and Leaky ReLU.
 
-\- **Custom Optimizers:** Batch Gradient Descent and Adam Optimizer (from scratch).
+- **Custom Optimizers:** Batch Gradient Descent and Adam Optimizer (from scratch).
 
-\- **Multi-class Classification:** Softmax output with Categorical Cross-Entropy loss.
+- **Multi-class Classification:** Softmax output with Categorical Cross-Entropy loss.
 
 
 
@@ -69,13 +69,13 @@ The goal of this project was to build a functioning neural network from scratch 
 
 
 
-\- **Optimizers:** Adam consistently outperformed Batch Gradient Descent, especially on MNIST/F-MNIST.
+- **Optimizers:** Adam consistently outperformed Batch Gradient Descent, especially on MNIST/F-MNIST.
 
-\- **Activation Functions:** Leaky ReLU prevented "dead neurons" and achieved the highest accuracy. Sigmoid struggled in deeper networks.
+- **Activation Functions:** Leaky ReLU prevented "dead neurons" and achieved the highest accuracy. Sigmoid struggled in deeper networks.
 
-\- **Network Depth:** 3–4 layers improved performance on complex datasets, while simpler tasks like Iris worked well with 2 layers.
+- **Network Depth:** 3–4 layers improved performance on complex datasets, while simpler tasks like Iris worked well with 2 layers.
 
-\- **Dimensionality:** High-instance datasets performed well; high-dimensional low-sample datasets (e.g., Leukemia) were challenging.
+- **Dimensionality:** High-instance datasets performed well; high-dimensional low-sample datasets (e.g., Leukemia) were challenging.
 
 
 ![results](Images/bestval.png)
@@ -118,7 +118,7 @@ All notebooks are shared with \*\*editor access\*\*. To avoid accidental edits, 
 
 2\. Upload to your own Colab environment (optional but recommended).
 
-3\. Run \*\*Runtime > Run all\*\*.
+3\. Run **Runtime > Run all**.
 
 4\. For MNIST/F-MNIST, replace the Kaggle API key in the second cell if necessary.
 
