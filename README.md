@@ -97,12 +97,14 @@ All notebooks are shared with **editor access**. To avoid accidental edits, cons
 
 ## Contributors
 
-- Tajkia Nuri Ananna  
-- Nowshin Tasnim  
-- Ali Salehi Darjani  
-- **Joy Saha**
+- Tajkia Nuri Ananna<sup>1</sup>  
+- Nowshin Tasnim<sup>1</sup>  
+- Ali Salehi Darjani<sup>2</sup>  
+- **Joy Saha**<sup>2</sup>  
 
-University at Albany, SUNY
+**Affiliations**  
+<sup>1</sup> Department of Computer Science, University at Albany, SUNY  
+<sup>2</sup> Department of Electrical & Computer Engineering, University at Albany, SUNY
 
 ---
 
